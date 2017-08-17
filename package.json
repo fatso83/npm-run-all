@@ -33,6 +33,7 @@
     "cross-spawn": "^5.0.1",
     "memory-streams": "^0.1.2",
     "minimatch": "^3.0.2",
+    "mocha.parallel": "^0.15.3",
     "ps-tree": "^1.0.1",
     "read-pkg": "^2.0.0",
     "shell-quote": "^1.6.1",
